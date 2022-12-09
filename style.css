@@ -1,0 +1,90 @@
+body{  
+    background: linear-gradient(-90deg, #f7f1ff, #f6f1ff, #f5f1ff, #f4f1ff, #f3f1ff, #f2f1ff, #f1f1ff);
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    font-size: default;
+  }  
+  
+  .container{
+    
+  }
+  
+  .card{
+      width: 200px;
+      height: 230px;
+      display: inline-block;
+      border-radius: 10px;
+      padding: 15px 25px;
+      box-sizing: border-box;
+      cursor: pointer;
+      margin: 10px 15px;
+      background-position: center;
+      background-size: cover;
+      color: #f1f1ff;
+      display: inline-flex;
+  }
+  
+  .card1{
+      background-image: url(https://www.mindinventory.com/blog/wp-content/uploads/2022/10/IoT-the-future-of-mobile-app-development.png);
+  }
+
+  .card1 a{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 40px 25px;
+  }
+  
+  .card2{
+      background-image: url(https://img.freepik.com/free-photo/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report_1258-54629.jpg);
+  }
+
+  .card2 a{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 40px 25px;
+  }
+  
+  .card3{
+      background-image: url(https://img.freepik.com/free-vector/happy-diwali-template-with-text-image-space-red-background_1017-40121.jpg?w=2000);
+  }
+
+  .card3 a{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 40px 25px;
+  }
+  
+  .card4{
+      background-image: url(https://imageio.forbes.com/specials-images/imageserve/5c13d14731358e5b4339c564/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=87&width=87);
+  }
+
+  .card4 a{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 40px 25px;
+  }
+
+.card5{
+    background-image: url(https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/07/bts-1657785769.jpg);
+}
+
+.card5 a{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 40px 25px;
+}
+
+.card6{
+    background-image: url(https://images.unsplash.com/photo-1588421357574-87938a86fa28?ixlib=rb-4.0.3&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+}
+
+.card6 a{
+  color: #ffffff;
+  text-decoration: none;
+  margin: 40px 25px;
+}
+ 
+  .card:hover{
+      width: 205px;
+      height: 235px;
+  }

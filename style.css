@@ -25,7 +25,7 @@ body{
   }
   
   .card1{
-      background-image: url(images/App\ Development.png);
+      background-image: url(App Development.png);
   }
 
   .card1 a{
@@ -35,7 +35,7 @@ body{
   }
 
   .card2{
-    background-image: url(images/HTD.webp);
+    background-image: url(HTD.webp);
   }
 
   .card2 a{
@@ -45,7 +45,7 @@ body{
   }
   
   .card3{
-      background-image: url(images/HD.webp);
+      background-image: url(HD.webp);
   }
 
   .card3 a{
@@ -55,7 +55,7 @@ body{
   }
   
   .card4{
-      background-image: url(images/Apple.png);
+      background-image: url(Apple.png);
   }
 
   .card4 a{
@@ -65,7 +65,7 @@ body{
   }
 
 .card5{
-    background-image: url(images/BTS.jpg);
+    background-image: url(BTS.jpg);
 }
 
 .card5 a{
@@ -75,7 +75,7 @@ body{
 }
 
 .card6{
-    background-image: url(images/8C\ timetable.jpg);
+    background-image: url(8C timetable.jpg);
 }
 
 .card6 a{

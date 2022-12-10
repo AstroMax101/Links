@@ -25,7 +25,7 @@ body{
   }
   
   .card1{
-      background-image: url(https://www.mindinventory.com/blog/wp-content/uploads/2022/10/IoT-the-future-of-mobile-app-development.png);
+      background-image: url(images/App\ Development.png);
   }
 
   .card1 a{
@@ -33,9 +33,9 @@ body{
     text-decoration: none;
     margin: 40px 25px;
   }
-  
+
   .card2{
-      background-image: url(https://img.freepik.com/free-photo/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report_1258-54629.jpg);
+    background-image: url(images/HTD.webp);
   }
 
   .card2 a{
@@ -45,7 +45,7 @@ body{
   }
   
   .card3{
-      background-image: url(https://img.freepik.com/free-vector/happy-diwali-template-with-text-image-space-red-background_1017-40121.jpg?w=2000);
+      background-image: url(images/HD.webp);
   }
 
   .card3 a{
@@ -55,7 +55,7 @@ body{
   }
   
   .card4{
-      background-image: url(https://imageio.forbes.com/specials-images/imageserve/5c13d14731358e5b4339c564/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=87&width=87);
+      background-image: url(images/Apple.png);
   }
 
   .card4 a{
@@ -65,7 +65,7 @@ body{
   }
 
 .card5{
-    background-image: url(https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/07/bts-1657785769.jpg);
+    background-image: url(images/BTS.jpg);
 }
 
 .card5 a{
@@ -75,7 +75,7 @@ body{
 }
 
 .card6{
-    background-image: url(https://images.unsplash.com/photo-1588421357574-87938a86fa28?ixlib=rb-4.0.3&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+    background-image: url(images/8C\ timetable.jpg);
 }
 
 .card6 a{
@@ -86,5 +86,5 @@ body{
  
   .card:hover{
       width: 205px;
-      height: 235px;
+      height: 240px;
   }
